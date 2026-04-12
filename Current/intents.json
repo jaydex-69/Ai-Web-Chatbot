@@ -1,0 +1,19 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hello", "hey", "HOw are you", "how is it going?"],
+            "responses": ["Hello", "How can i help you?", "Good to see you again!"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "Goobye", "cya", "See you later!"],
+            "responses": ["Goodbooy!", "Sad to see you leave so soon", "Talk to me again some time!"]
+        },
+        {
+            "tag": "programming",
+            "patterns": ["WHat is programming?", "Do you know how to code?", "Can you teach me programming?", "Tell me about coding!"],
+            "responses": ["Programming, coding, or software engineering means writing computer code to automate tasks!"]
+        }
+    ]
+}
