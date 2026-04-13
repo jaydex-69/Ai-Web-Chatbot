@@ -14,6 +14,16 @@
             "tag": "programming",
             "patterns": ["WHat is programming?", "Do you know how to code?", "Can you teach me programming?", "Tell me about coding!"],
             "responses": ["Programming, coding, or software engineering means writing computer code to automate tasks!"]
+        },
+        {
+            "tag": "flask",
+            "patterns": ["WHat is flask?", "Do you know how to use flask?", "Can you teach me how to use flsak?", "Tell me about flask!"],
+            "responses": ["Flask is a python framework for server side and backend coding!"]
+        },
+        {
+            "tag": "how",
+            "patterns": ["how are you?", "DO you feel good?", "Can you teach me how to better?", "Tell me about yourself!"],
+            "responses": ["I feel great!", "I feel good thanks for asking!"]
         }
     ]
 }
